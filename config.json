@@ -1,12 +1,12 @@
 {
   "repo": {
-    "owner": "cli",
-    "name": "cli"
+    "owner": "oldhorseC",
+    "name": "new-ntm-addon"
   },
-  "title": "CuRelease",
-  "description": "See you release — 一个面向国内用户的 GitHub Release 查看器",
+  "title": "NTM-it",
+  "description": "一个HBM核科技模组1.12.2版本的附属",
   "releases": {
-    "per_page": 20,
+    "per_page": 10,
     "include_prerelease": true,
     "include_draft": false,
     "sort": "desc"
@@ -21,11 +21,11 @@
       },
       {
         "name": "加速线路 A",
-        "prefix": "https://gh-proxy.example.com/"
+        "prefix": "https://gh-proxy.org/"
       },
       {
         "name": "加速线路 B",
-        "prefix": "https://ghproxy.example.com/"
+        "prefix": "https://ghproxy.net/"
       }
     ],
     "default_mirror": "官方 GitHub 源链"
